@@ -1,0 +1,21 @@
+.legend {
+    font-size: 16px;
+    line-height: 24px;
+    color: #333333;
+    font-family: 'Open Sans', Helvetica, sans-serif;
+    padding: 10px 14px;
+    background-color: hsla(0, 82%, 68%, 0.37) ;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    max-width: 250px;
+    border: 1px solid grey;
+   }
+   .legend p {
+    font-size: 16px;
+    line-height: 24px;
+   }
+   .legend img {
+    max-width: 200px;
+    margin: auto;
+    display: block;
+   }
